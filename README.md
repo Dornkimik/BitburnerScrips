@@ -1,1 +1,2 @@
 # BitburnerScrips
+![Example](Preview.png)
